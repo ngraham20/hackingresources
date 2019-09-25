@@ -1,7 +1,5 @@
 # HACKING RESOURCES
 
----
-
 ## Online CTFs
 
 [Embedded Security CTF][1]  
