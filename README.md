@@ -4,25 +4,25 @@
 
 ## Online CTFs
 
-[Embedded Security CTF][1]
-[ctf101][4]
-[Hacker101][7]
+[Embedded Security CTF][1]  
+[ctf101][4]  
+[Hacker101][7]  
 
 ## Reverse Engineering
 
 #### Tutorials and Resources
-[An Intro to x86_64 Reverse Engineering][2]
-[Crackmes][3]
+[An Intro to x86_64 Reverse Engineering][2]  
+[Crackmes][3]  
 
 #### Tools
-[Radare2][6]
+[Radare2][6]  
 
 ### Wargames
 
-[OverTheWire][5]
+[OverTheWire][5]  
 
 ### Books
-[Hacking 2nd Edition][8]
+[Hacking 2nd Edition][8]  
 
 [1]: https://microcorruption.com/login
 [2]: https://leotindall.com/tutorial/an-intro-to-x86_64-reverse-engineering/
